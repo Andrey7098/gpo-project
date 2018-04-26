@@ -7,6 +7,6 @@ require "db.php";
 <a href="/logout.php">Выйти</a>
 <?php else : ?>
 Вы не авторизованы! <br>
-<a href="login.php">Авторизация</a> <br>
+<a href="login.php">Авторизация1</a> <br>
 <a href="signup.php">Регистрация</a>
 <?php endif; ?>
