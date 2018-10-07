@@ -11,5 +11,5 @@
     include_once 'config/libs/db.php';
     //var_dump(dirname(__FILE__));
     $a = new Router();
-    $a->run();
+    $a->run();    
 ?>
